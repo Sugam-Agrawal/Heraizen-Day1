@@ -1,0 +1,57 @@
+            
+            body 
+            {
+                background-color:palegoldenrod;
+                opacity:0.75;
+            }
+            #qualification 
+            {
+                font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+            }
+            #qualification td, #qualification th 
+            {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }           
+            #qualification tr:hover 
+            {
+                background-color:white;
+            }            
+            #qualification th 
+            {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: left;
+                background-color:dodgerblue;
+                color: white;
+            }
+            h3
+            {
+                text-align: center;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-size: 24px;  
+                padding-right: 25px;              
+            }
+            h4
+            {
+                font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+                border-collapse:collapse;
+                width: 100%;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                padding-left: 15px;
+                text-align: left;
+                background-color:dodgerblue;
+                color: white;
+            }
+            ul 
+            {
+                font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            }
+            a.x1 :hover
+            {
+                background-color: aqua;
+            }
+     
